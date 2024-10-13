@@ -1,0 +1,22 @@
+name: 🐛 Bug Report Request
+description: Suggest an Bug Report Request for this project
+title: "🐛 Bug Report Request: "
+labels: 
+  - Bug, error, attention, needed
+
+body:
+  - type: markdown
+    attributes:
+      value: Thank you for taking the time to file a Bug Report Request.
+  - type: textarea
+    attributes:
+      label: Please describe your feature request related to a problem?
+      description: 'A one-liner title for the feature.'
+  - type: textarea
+    attributes:
+      label: Describe your solution to the problem
+      description: 'A clear and concise description of what you want to happen.'
+  - type: textarea
+    attributes:
+      label: Add Relevant Screenshot (if available)
+      description: 'supporting an issue'
