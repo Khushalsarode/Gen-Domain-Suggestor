@@ -1,4 +1,4 @@
-# Genai Domains 🌐
+# Genai Domains DreamDomains 🌐
 
 Welcome to **Genai Domains**, an innovative web application designed to help you generate catchy domain names for your projects. Whether you have a project idea, title, or description, our app utilizes AI to suggest creative domain names tailored to your specifications.
 
