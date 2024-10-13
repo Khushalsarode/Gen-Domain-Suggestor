@@ -1,0 +1,6 @@
+requests
+streamlit
+textwrap3
+google-generativeai
+pymongo
+python-dotenv
