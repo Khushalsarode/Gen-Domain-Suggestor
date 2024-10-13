@@ -1,3 +1,7 @@
+![License](https://img.shields.io/badge/license-MIT-blue) 
+![GitHub stars](https://img.shields.io/github/stars/username/repo?style=social) 
+![GitHub issues](https://img.shields.io/github/issues/username/repo)
+
 # Genai Domains DreamDomains 🌐
 
 Welcome to **Genai Domains DreamDomains**, an innovative web application designed to help you generate catchy domain names for your projects. Whether you have a project idea, title, or description, our app utilizes AI to suggest creative domain names tailored to your specifications.
