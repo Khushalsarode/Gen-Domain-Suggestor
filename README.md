@@ -1,6 +1,6 @@
 ![License](https://img.shields.io/badge/license-MIT-blue) 
-![GitHub stars](https://img.shields.io/github/stars/username/repo?style=social) 
-![GitHub issues](https://img.shields.io/github/issues/username/repo)
+![GitHub stars](https://img.shields.io/github/stars/khushalsarode/Gen-Domain-Suggestor?style=social) 
+![GitHub issues](https://img.shields.io/github/issues/khushalsarode/Gen-Domain-Suggestor)
 
 # Genai Domains DreamDomains 🌐
 
