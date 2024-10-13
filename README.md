@@ -1,6 +1,6 @@
 # Genai Domains DreamDomains 🌐
 
-Welcome to **Genai Domains**, an innovative web application designed to help you generate catchy domain names for your projects. Whether you have a project idea, title, or description, our app utilizes AI to suggest creative domain names tailored to your specifications.
+Welcome to **Genai Domains DreamDomains**, an innovative web application designed to help you generate catchy domain names for your projects. Whether you have a project idea, title, or description, our app utilizes AI to suggest creative domain names tailored to your specifications.
 
 ## Table of Contents
 
@@ -60,4 +60,4 @@ This project is licensed under the terms of the MIT License. See the [LICENSE](.
 
 ---
 
-Thank you for checking out **Genai Domains**! We hope you find it useful for generating the perfect domain names for your projects. If you have any questions or feedback, feel free to reach out!
+Thank you for checking out **Genai Domains DreamDomains**! We hope you find it useful for generating the perfect domain names for your projects. If you have any questions or feedback, feel free to reach out!
