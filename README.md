@@ -4,14 +4,14 @@ Welcome to **Genai Domains**, an innovative web application designed to help you
 
 ## Table of Contents
 
-- [Inspiration](#inspiration)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Setup Guide](#setup-guide)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Code of Conduct](#code-of-conduct)
-- [License](#license)
+- [Inspiration](#inspiration-)
+- [Features](#features-)
+- [Technologies Used](#technologies-used-)
+- [Setup Guide](#setup-guide-)
+- [Usage](#usage-)
+- [Contributing](#contributing-)
+- [Code of Conduct](#code-of-conduct-)
+- [License](#license-)
 
 ## Inspiration 💡
 
