@@ -1,0 +1,116 @@
+/* Profile Dropdown Container */
+.profile-dropdown {
+  position: absolute;
+  top: 60px; /* Adjust based on Navbar height */
+  right: 20px;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 20px;
+  width: 220px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  opacity: 0;
+  animation: fadeIn 0.3s forwards;
+  transition: all 0.3s ease-in-out;
+}
+
+@keyframes fadeIn {
+  to {
+      opacity: 1;
+  }
+}
+
+/* Profile Picture */
+.profile-picture {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.profile-picture:hover {
+  transform: scale(1.05);
+}
+
+/* Profile Name */
+.profile-name {
+  margin: 8px 0;
+  font-size: 20px;
+  color: #2c3e50;
+  font-weight: 600;
+}
+
+/* Profile Email */
+.profile-email {
+  font-size: 14px;
+  color: #7f8c8d;
+  margin-bottom: 10px;
+  word-wrap: break-word;
+}
+
+/* Profile ID */
+.profile-id {
+  font-size: 12px;
+  color: #bdc3c7;
+  margin: 0;
+  word-wrap: break-word;
+}
+
+/* Loading Spinner */
+.profile-loading {
+  position: absolute;
+  top: 60px;
+  right: 20px;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 20px;
+  width: 220px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+.loading-spinner {
+  border: 4px solid rgba(0, 0, 0, 0.1);
+  border-radius: 50%;
+  border-top: 4px solid #3498db;
+  width: 30px;
+  height: 30px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Hover Effect */
+.profile-dropdown:hover {
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+  .profile-dropdown, .profile-loading {
+      width: 90%;
+      right: 10px;
+      left: 10px;
+  }
+  
+  .profile-picture {
+      width: 60px;
+      height: 60px;
+  }
+  
+  .profile-name {
+      font-size: 18px;
+  }
+  
+  .profile-email, .profile-id {
+      font-size: 13px;
+  }
+}
